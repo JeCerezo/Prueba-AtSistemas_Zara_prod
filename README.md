@@ -2,7 +2,7 @@
 prueba_Zara_prod
 
 La prueba ha sido desarrollada usando Node.js y sus librerías.
-Para ejecutar la prueba, es necesario tener instalado Node en el equipo. Una vez instalado, descargar los ficheros de este repositorio en una carpeta del equipo.
+Para ejecutar la prueba, es necesario tener instalado Node en el equipo. Una vez instalado, descargar los ficheros de este repositorio (excepto los 'git*') en una carpeta del equipo.
 
 Después, entrar por consola a dicho directorio y ejecutar el comando 'npm install', que instalará automáticamente las librerías necesarias para ejecutar la página, ya que vienen definidas en el fichero 'package.json'.
 
